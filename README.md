@@ -6,6 +6,7 @@ We gathered & analyzed data from 15 local high schools, including student info, 
 ## Misc
 - Since we're dealing with such a large dataset (~40k students), it's wise to make sure there aren't any duplicate rows - so I set it up to throw an error message if there were any. There weren't. (Yay!)
 - If you wanted to clean up the data more, you could map 2-decimal formatting to all of the test scores (or simply round them all up).
+- Used the starter code provided by the bootcamp
 
 ## Notes & conclusions
 - Reading scores are almost always higher than math scores - this aligns with typical educational trends we've seen.
